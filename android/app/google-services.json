@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "88520859046",
+    "project_id": "demotesting-e0e41",
+    "storage_bucket": "demotesting-e0e41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88520859046:android:85b2d7d03f9b724180c367",
+        "android_client_info": {
+          "package_name": "com.notidemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88520859046-tjrvgehch3f09qjgjmrrkotudj37ipna.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLQ6qABSMakdfoFXOp5rJpMAnUVEwnXI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88520859046-tjrvgehch3f09qjgjmrrkotudj37ipna.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,14 @@
+com/notidemo/MainActivity.java
+ com.notidemo.MainActivity
+com/notidemo/MainApplication.java
+ com.notidemo.MainApplication
+ com.notidemo.MainApplication$1
+com/notidemo/BuildConfig.java
+ com.notidemo.BuildConfig
+com/notidemo/ReactNativeFlipper.java
+ com.notidemo.ReactNativeFlipper
+ com.notidemo.ReactNativeFlipper$1
+ com.notidemo.ReactNativeFlipper$2
+ com.notidemo.ReactNativeFlipper$2$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
